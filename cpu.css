@@ -1,5 +1,12 @@
-body{
+*{
+    background-color: black;
+    color: white;
+}
+    
+    #body{
     text-align: center;
+    background-color: black;
+    color: white;
 }
 ul{
     display: inline-block;
