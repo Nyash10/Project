@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+nav{
+    background-color: lightgrey;
+}
+#headerdiv{
+    font-size: 40px;
+}
+#imagediv{
+    float: left;
+    height:600px;
+    width:50%;
+}
+#textdiv{
+    float: right;
+    height:600px;
+    width:50%;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+button:hover{
+    background-color: grey;
+    color: black;
+}
